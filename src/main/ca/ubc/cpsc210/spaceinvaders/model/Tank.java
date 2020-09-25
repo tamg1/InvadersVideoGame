@@ -3,7 +3,7 @@ package ca.ubc.cpsc210.spaceinvaders.model;
 import java.awt.Color;
 
 /**
- * Reresents a tank
+ * Represents a tank
  */
 public class Tank {
 	
