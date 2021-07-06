@@ -30,7 +30,7 @@ public class SpaceInvaders extends JFrame {
 	public SpaceInvaders() {
 		super("Space Invaders");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setUndecorated(true);
+		setUndecorated(false);
 		game = new SIGame();
 		gp = new GamePanel(game);
 		sp = new ScorePanel(game);
