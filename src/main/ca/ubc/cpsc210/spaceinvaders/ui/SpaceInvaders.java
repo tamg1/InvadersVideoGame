@@ -20,7 +20,7 @@ import ca.ubc.cpsc210.spaceinvaders.model.SIGame;
 @SuppressWarnings("serial")
 public class SpaceInvaders extends JFrame {
 
-	private static final int INTERVAL = 20;
+	private static final int INTERVAL = 10;
 	private SIGame game;
 	private GamePanel gp;
 	private ScorePanel sp;
